@@ -1,3 +1,3 @@
-cd "C:\Guild Wars 2\bin64"
+cd "C:\Guild Wars 2\"
 python arc-check.py
 pause
